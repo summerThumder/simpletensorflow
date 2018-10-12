@@ -1,0 +1,2 @@
+# simpletensorflow
+基于python实现的简单tensorflow的session,train等机制，目前只有add,square等运算
